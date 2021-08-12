@@ -5,8 +5,6 @@ bin/
 tmp/
 *.tmp
 *.bak
-!*/src/main/*
-!*/src/test/*
 
 ############
 ### Java ###
